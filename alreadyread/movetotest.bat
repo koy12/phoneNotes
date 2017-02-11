@@ -1,1 +1,1 @@
-Move *.vnt ..\test\
+Move *0.vnt ..\test\
